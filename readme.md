@@ -30,7 +30,7 @@ Requisition Body:<br/>
 ```
 
 Where size can be small, medium and large.
-There is a third item in the body of the refinement, called Qty, receives a number 1 to 10 and specifies the amount of images that will be returned.
+There is a third item in the body of the refinement, called qty, receives a number 1 to 10 and specifies the amount of images that will be returned.
 
 response :
 ```json
