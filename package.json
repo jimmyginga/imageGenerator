@@ -1,0 +1,20 @@
+{
+  "name": "image-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jimi Nginga",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "openai": "^3.2.1"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.17",
+    "nodemon": "^2.0.21"
+  }
+}
